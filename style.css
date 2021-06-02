@@ -14,8 +14,12 @@ h1 {
   padding: 5px;
   margin-bottom: 5px;
   font-size: 30px;
-  color: black;
+  color: #17a2b8;
   text-align: left;
+}
+
+h4{
+  color: #17a2b8;
 }
 
 #main-image {
@@ -27,13 +31,11 @@ h1 {
 #one {
     background-color: white ;
     padding: 10px;
-  }
+}
 
 
 a{
-  font-size: 15px;
+  font-size: 14px;
   color:black;
-  border-color: slateblue;
-
 }
 
