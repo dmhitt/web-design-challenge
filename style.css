@@ -1,8 +1,4 @@
-/*
- First External CSS Stylesheet
- */
 
-/* Styling for HTML elements */
 
 body {
   padding: 0;
@@ -40,38 +36,4 @@ a{
   border-color: slateblue;
 
 }
-
-/*
-.content{
-    padding:20px;
-    border: 1px solid #269abc;
-    background:#d6ec94;
-}
-
-[class*="col-sm-12"] {
-    padding-top:10px; 
-    padding-bottom:10px;
-    border: 1px solid grey;
-    background: transparent;
-    background-color: yellow;
-}
-
-.fixed-width {
-    display:inline-block;
-    float:none;
-    width: 300px;
-}
-
-#one {
-    background-color: #17a2b8;
-    height:500px;
-}
-
-@media (min-width: @screen-sm-min) {
-  background-color: yellow;
-
-
-}
-
-*/
 
